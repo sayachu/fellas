@@ -1,4 +1,4 @@
-baseURL: "fellas.soy"
+baseURL: "/"
 title: <fellas>
 paginate: 5
 theme: hugo-PaperMod
