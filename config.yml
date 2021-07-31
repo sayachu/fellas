@@ -23,12 +23,12 @@ languages:
           enabled: true
           title: fellas
 
-        #  imageUrl: "https://a.pomf.cat/gxsfkh.png"
-        #  imageTitle: <fellas>
-        #   imageWidth: 360
-        #   imageHeight: 360
+          imageUrl: "logo.png"
+          imageTitle: <fellas>
+          imageWidth: 160
+          imageHeight: 160
 
-          subtitle: 🐸 a mediumcore wow guild on zandalar tribe-eu 🐻
+          subtitle: 🐸 a mediumcore wow guild on 👺zandalar tribe-eu 🐻
 
           buttons:
             - name: apply
@@ -113,8 +113,8 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    description: "<fellas> - a bcc guild on zandalar tribe-eu"
+    author: fellas
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -132,11 +132,11 @@ params:
 
     profileMode:
         enabled: true
-        title: PaperMod
+        title: fellas
         imageUrl: "#"
-        imageTitle: my image
-        imageWidth: 360
-        imageHeight: 360
+        imageTitle: fellas
+        imageWidth: 120
+        imageHeight: 120
         buttons:
             - name: Archives
               url: archives
@@ -144,19 +144,12 @@ params:
               url: tags
 
     homeInfoParams:
-        Title: "PaperMod"
-        Content: >
-            Welcome to demo of hugo's theme PaperMod.
-
-            - **PaperMod** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-            - Do give a 🌟 on Github !
-
-            - PaperMod is based on theme [Paper](https://github.com/nanxiaobei/hugo-paper).
+        Title: "fellas"
+        Content: fellas are a bcc guild on zandalar tribe-eu
 
     socialIcons:
         - name: discord
-          url: "https://discord.gg/5WMQz7MW"
+          url: "https://discord.gg/vxCBNJD"
         - name: warcraftlogs
           url: "https://classic.warcraftlogs.com/guild/id/606112"
         - name: twitch
@@ -177,7 +170,7 @@ params:
     #         SiteVerificationTag: "XYZabc"
 
     # assets:
-    #     favicon: "<link / abs url>"
+    #     favicon: "favicon.ico"
     #     favicon16x16: "<link / abs url>"
     #     favicon32x32: "<link / abs url>"
     #     apple_touch_icon: "<link / abs url>"
