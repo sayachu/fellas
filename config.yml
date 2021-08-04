@@ -9,7 +9,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 enableEmoji: true
-googleAnalytics: UA-203681928-1
+
 
 minify:
     disableXML: true
@@ -165,9 +165,9 @@ params:
     #     icon: icon.png
     #     iconHeight: 35
 
-    # analytics:
-    #     google:
-    #         SiteVerificationTag: "XYZabc"
+     analytics:
+         google:
+             SiteVerificationTag: "G-NHCD6GT9HV"
 
     # assets:
     #     favicon: "favicon.ico"
