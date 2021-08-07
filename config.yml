@@ -37,8 +37,12 @@ languages:
             - name: loot
               url: "https://rclootcouncil.com/"
 
-      #  menu:
-      #      main:
+        menu:
+            main:
+                - name: info
+                  url: posts
+                  weight: 5
+
       #          - name: Archives
       #            url: archives
       #            weight: 5
@@ -148,9 +152,7 @@ params:
 
     socialIcons:
         - name: discord
-          url: "https://discord.gg/vxCBNJD"
-        - name: warcraftlogs
-          url: "https://classic.warcraftlogs.com/guild/id/606112"
+          url: "https://discord.fellas.soy"
         - name: twitch
           url: "https://www.twitch.tv/bluepanchoyee"
 
