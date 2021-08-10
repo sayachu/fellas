@@ -9,7 +9,7 @@ Hey **\<fellas\>** and everyone else that stumbles upon this post.
 I’m going to talk a bit about the loot systems we have considered and what we finally settled on
 for T5 raids to find a balance between utility, fairness and ease of use.
 
-![Cover image](https://images.unsplash.com/photo-1524080578602-838ed6b52013?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1951&q=80)
+![Cover image](https://a.pomf.cat/ghequk.jpeg)
 
 # The perfect loot system?
 
