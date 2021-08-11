@@ -5,7 +5,7 @@ draft: false
 author: Fading
 ---
 
-Hey **\<fellas\>** and everyone else that stumbles upon this post.  
+Hey **\<fellas\>** and everyone else that finds this post.  
 I’m going to talk a bit about the loot systems we have considered and what we finally settled on
 for T5 raids to find a balance between utility, fairness and ease of use.
 
@@ -13,12 +13,15 @@ for T5 raids to find a balance between utility, fairness and ease of use.
 
 # The perfect loot system?
 
-After lots of internal deliberation we settled on going with a **loot council**
+After lots of internal deliberation we decided on going with a **loot council**
 consisting of multiple officers and a rotating guild member, which serves as a
-small check and balance and ensure transparency on the process. Loot decisions have
+small check and balance to ensure transparency in the process. Loot decisions have
 to be unanimous and single people can veto them, if they deem them unfair.
 Loot council systems can only be as fair as we are, but they are flexible, they
-are quick, they are easy and they can be very transparent.
+are quick, they are easy and they can be very transparent. We acknowledge that
+there effectively is no perfect loot system and this one is much more prone to
+human error than others, but has large upsides for a stable raid team and running
+a guild effectively within our philosophy of playing the game.
 
 # Speeding up looting
 
@@ -36,20 +39,31 @@ I was initially a big defender and friend of modified DKP systems, specifically
 EPGP with sane settings like minimum EP and strong decay at around 20%. This would
 ideally be the fairest loot system, but comes with a lot of setup and has the usual
 downsides of DKP systems where too much equality gets in the way of individual needs,
-that a "smart" loot council can adjust to.  
+that a "smart" loot council can adjust to. We ruled out other, more straight up DKP
+systems like original DKP, Suicide Kings, etc. for simply being an inferior option to EPGP.
 
 A DKP system would distribute loot more evenly, but it does not account for anything
-past attendance and boss kills. Witha loot council we will take performance into
+past attendance and boss kills. With a loot council we will take performance into
 account, have gearing paths of classes in mind and will be much more prepared than
 we are with Magtheridon heads, because we will have your full T5 BiS lists ahead of
 time (more on that in another post) and before killing any boss.
 
+Soft reserve, the new kid on the block, is very appealing for its ease of use and
+ability to let self-interested players get the items they want, but combined with
+the randomness and scarcity of best in slot pieces it introduces a degree of
+randomness, that performance oriented raids shouldn't be comfortable with. It's
+an amazing tool for pugs and we'll keep using it in the future for minor content
+and running pick up groups.
+
 # How can I be sure that you don't fuck me over?
 
 We are aware that this demands a lot of trust in us as guild leaders to effectively
-not gear our characters and leave you empty handed. Fellas has existed as a Mythic
-raiding guild for 5 years now and loot drama has been minimal to non-existent. This
-is our retail track record, that anyone that has raided with us can confirm.
+not gear our characters and leave you empty handed, which is why I think some
+assurances and justifications are always necessary when choosing this system.
+
+Fellas has existed as a mythic raiding guild for 5 years now and loot drama has been minimal to non-existent while
+we were active with a similar configuration of officers and people on the council.
+This is our retail track record, that anyone that has raided with us can confirm.
 
 As far as BCC goes we have ran with a soft reserve system and were happy with how quickly
 and evenly it can distribute loot, so as an additional reassurance you have us running
