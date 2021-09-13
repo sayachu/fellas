@@ -35,7 +35,7 @@ languages:
             - name: logs
               url: "https://classic.warcraftlogs.com/guild/id/606112"
             - name: loot
-              url: "https://rclootcouncil.com/"
+              url: "https://thatsmybis.com/"
 
         menu:
             main:
