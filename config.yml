@@ -27,21 +27,13 @@ languages:
           imageWidth: 160
           imageHeight: 160
 
-          subtitle: 🐸 a mediumcore wow guild on 👺zandalar tribe-eu 🐻
+          subtitle: 🐸 a discord friend group 🐻
 
           buttons:
-            - name: apply
-              url: "https://tally.so/r/mZ6zym"
-            - name: logs
-              url: "https://classic.warcraftlogs.com/guild/id/606112"
-            - name: loot
-              url: "https://thatsmybis.com/"
 
         menu:
             main:
-                - name: info
-                  url: posts
-                  weight: 5
+
 
       #          - name: Archives
       #            url: archives
@@ -116,7 +108,7 @@ outputs:
 
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
-    description: "fellas - a bcc guild on zandalar tribe-eu"
+    description: "fellas - just a discord friend group"
     author: fellas
     # author: ["Me", "You"] # multiple authors
 
@@ -148,13 +140,11 @@ params:
 
     homeInfoParams:
         Title: "fellas"
-        Content: fellas are a bcc guild on zandalar tribe-eu
+        Content: just a discord friend group
 
     socialIcons:
         - name: discord
           url: "https://discord.fellas.soy"
-        - name: twitch
-          url: "https://www.twitch.tv/bluepanchoyee"
 
     # editPost:
       #  URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
