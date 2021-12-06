@@ -29,10 +29,10 @@ languages:
 
           subtitle: 🐸 a discord friend group 🐻
 
-          buttons:
+      #    buttons:
 
-        menu:
-            main:
+      #  menu:
+      #      main:
 
 
       #          - name: Archives
